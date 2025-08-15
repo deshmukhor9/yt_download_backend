@@ -1,0 +1,28 @@
+{
+  "name": "yt-downloader-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "��#\u0000 \u0000y\u0000t\u0000_\u0000d\u0000o\u0000w\u0000n\u0000l\u0000o\u0000a\u0000d\u0000_\u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "yt-dlp-exec": "^1.0.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deshmukhor9/yt_download_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deshmukhor9/yt_download_backend/issues"
+  },
+  "homepage": "https://github.com/deshmukhor9/yt_download_backend#readme"
+}
